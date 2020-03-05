@@ -12,6 +12,6 @@ Commit the changes with related message
 
 `git commit -m 'message_for_the_changes' `
 
-Push the changes to tje remote git repo
+Push the changes to the remote git repo
 
 `git push -u origin master`
