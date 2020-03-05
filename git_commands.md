@@ -5,6 +5,7 @@
 `git status`
 
 ### Track the changed files
+Specify file-name or put a dot to track all files
 
 `git add <file-name or .>`
 
