@@ -14,4 +14,4 @@
 
 ### Push the changes to the remote git repo
 
-`git push -u origin master`
+`git push`
