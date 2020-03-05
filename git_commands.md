@@ -1,17 +1,17 @@
 # Basic Git Commands
 
-Show the branch status, if you modify your directory it shows changed files.
+### Show the branch status, if you modify your directory it shows changed files.
 
 `git status`
 
-Track the changed files
+### Track the changed files
 
 `git add <file-name or .>`
 
-Commit the changes with related message
+### Commit the changes with related message
 
 `git commit -m 'message_for_the_changes' `
 
-Push the changes to the remote git repo
+### Push the changes to the remote git repo
 
 `git push -u origin master`
